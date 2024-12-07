@@ -90,7 +90,7 @@
             transition: background-color 0.3s;
         }
         .cta-button:hover {
-            background-color: blue
+            background-color: green
         }
         .product-section {
             margin-top: 4rem;
