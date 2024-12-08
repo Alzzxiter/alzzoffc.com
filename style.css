@@ -80,7 +80,7 @@
         }
         .cta-button {
             display: inline-block;
-            background-color: var(--color-secondary); 
+            background-color: var(--color-text); 
             color: white;
             padding: 10px 20px;
             text-decoration: none;
@@ -90,7 +90,7 @@
             transition: background-color 0.3s;
         }
         .cta-button:hover {
-            background-color: green
+            background-color: purple
         }
         .product-section {
             margin-top: 4rem;
