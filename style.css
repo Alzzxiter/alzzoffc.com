@@ -80,7 +80,7 @@
         }
         .cta-button {
             display: inline-block;
-            background-color: var(--color-text); 
+            background-color: var(--color-bg); 
             color: red;
             padding: 10px 20px;
             text-decoration: none;
